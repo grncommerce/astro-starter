@@ -10,7 +10,7 @@ Sign in at [app.grncommerce.com](https://app.grncommerce.com), open **Templates*
 
 ## What you get
 
-- Astro 6, TypeScript, file-based routing
+- Astro 4, TypeScript, file-based routing
 - Static-build output to `dist/`
 - AutoSSL on your `<slug>.grncommerce.com` subdomain
 - Atomic deploys via the GRN Commerce build pipeline
@@ -22,7 +22,7 @@ npm ci
 npm run build
 ```
 
-Output directory: `dist/`. Node version: 22 LTS.
+Output directory: `dist/`. Node version: 20 LTS.
 
 ## Note
 
