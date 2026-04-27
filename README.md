@@ -18,8 +18,8 @@ Sign in at [app.grncommerce.com](https://app.grncommerce.com), open **Templates*
 ## Build commands
 
 ```bash
-pnpm install
-pnpm build
+npm ci
+npm run build
 ```
 
 Output directory: `dist/`. Node version: 22 LTS.
